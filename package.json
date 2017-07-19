@@ -2,7 +2,7 @@
   "name": "ai-icons",
   "description": "A collection of 5806 icons from different sources ",
   "version": "1.0.3",
-  "style": "style.css"
+  "style": "style.css",
   "keywords": ["icons","fontawsome","bootstrap","design" ],
   "homepage": "https://github.com/ahmed-ahmed/ai-icons#readme",
   "author": "Ahmed Ahmed",
@@ -13,5 +13,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ahmed-ahmed/ai-icons/issues"
-  },
+  }
 }
