@@ -1,0 +1,25 @@
+{
+  "name": "ai-icons",
+  "version": "1.0.0",
+  "description": "A collection of 5806 icons from different sources ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-ahmed/ai-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "fontawsome",
+    "bootstrap",
+    "design"
+  ],
+  "author": "Ahmed Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmed-ahmed/ai-icons/issues"
+  },
+  "homepage": "https://github.com/ahmed-ahmed/ai-icons#readme"
+}
